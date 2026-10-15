@@ -1,0 +1,9 @@
+# Lab outputs
+Labfiles/02-content-understanding-api/results.json
+
+# Lab input files (extracted locally, not part of the repo)
+Labfiles/04-knowledge-mining/documents/
+Labfiles/content/*.mp3
+Labfiles/content/*.mp4
+Labfiles/content/*.pdf
+Labfiles/content/*.jpg
